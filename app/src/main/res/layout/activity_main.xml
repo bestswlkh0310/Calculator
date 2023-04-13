@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:background="@color/background1">
+
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -23,12 +24,13 @@
                 android:hint="Enter formula"
                 android:textColorHint="#919191"
                 style="@style/result_window_style" />
+
             <TableLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginHorizontal="20dp">
                 <TableRow android:gravity="center">
-                    <Button
+                    <androidx.appcompat.widget.AppCompatButton
                         android:text="(" android:id="@+id/btn_left"
                         style="@style/button_tool_style"/>
                     <Button

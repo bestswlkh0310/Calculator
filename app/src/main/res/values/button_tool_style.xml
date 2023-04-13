@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name = "button_tool_style">
+    <style name="button_tool_style">
         <item name = "android:textSize">40sp</item>
         <item name="android:textColor">@color/black</item>
         <item name="android:layout_width">75dp</item>
