@@ -1,2 +1,2 @@
-# Calculator
-so beautiful
+# 계산기
+### 안드로이드 기초
